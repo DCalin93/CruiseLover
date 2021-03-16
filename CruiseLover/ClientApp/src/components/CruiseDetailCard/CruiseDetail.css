@@ -1,0 +1,160 @@
+﻿.classInfo-header {
+    overflow: hidden;
+    animation: slide-up 0.8s ease-in-out both;
+}
+
+.cruiseInfo-text {
+    font-weight: 300;
+    animation: fade-in 0.8s ease-in-out both 0.5s;
+    font-size: 1.5em;
+}
+
+/*Cruise Detail -> Cards styling*/
+
+.cruiseDetailCard {
+    width: 70%;
+    display: flex;
+    margin: 25px 0 40px 5em;
+    background-color: darkcyan;
+    max-height: 435px;
+}
+
+    .cruiseDetailCard img {
+        height: 100%;
+        max-width: 500px;
+    }
+
+    .cruiseDetailCard h1, .cruiseDetailCard p {
+        color: floralwhite;
+    }
+
+.cruiseInfo-container {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    overflow-y: auto;
+}
+
+.bookCruise {
+    background-color: deepskyblue;
+    color: white;
+    margin-top: 20px;
+    display: flex;
+    margin-left: 30%;
+    width: max-content;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.bookCruise:hover {
+    text-decoration:none;
+    color: black;
+    background-color: yellow;
+}
+
+.cruiseInfo-container button:hover {
+    background-color: yellow;
+    color: black;
+    border-color: white;
+}
+
+/*Cruise Detail -> dropdowns styling*/
+.zoneSelect button, .zoneSelect .dropdown-menu, .nightSelect .form-control,
+.departureSelect .calendar-container, .departureSelect input {
+    background-color: darkturquoise;
+}
+
+    .zoneSelect .dropdown-item:hover, .zoneSelect button:hover, .form-control option:hover {
+        background-color: gold;
+    }
+
+.zoneSelect, .nightSelect, .departureSelect {
+    width: 15%;
+    margin-left: 15px;
+}
+
+    .departureSelect input {
+        height: 38px;
+    }
+
+    .departureSelect .calendar-container {
+        margin-left: 17em;
+    }
+
+/*Cruise Detail -> Departure date styling*/
+.react-datepicker-wrapper {
+    width: 80%;
+    height: 38px;
+}
+
+.react-datepicker__input-container {
+    height: 100%;
+    display: flex;
+}
+
+/*Cruise Detail -> filter section styling*/
+
+.filterData {
+    display: flex;
+    justify-content: center;
+}
+
+    .filterData p {
+        font-family: cursive;
+        font-size: 20px;
+        color: white;
+        letter-spacing: 0.1em;
+        font-weight: bold;
+    }
+
+/*Apply filter button styling*/
+
+.applyFilter {
+    margin-top: auto;
+    margin-left: 50px;
+    height: 38px;
+    background-color: yellow;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+/*Card discount images styling*/
+
+.cardImages {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.cruise-bg {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.discountImage {
+    position: absolute;
+    right: 0;
+    max-height: 150px;
+}
+
+.oldPrice {
+    text-decoration: line-through;
+}
+
+.priceContainer {
+    display: flex;
+}
+
+.discount {
+    background-color: red;
+    color: yellow !important;
+}
+
+.grow {
+    transition: all .2s ease-in-out;
+}
+
+    .grow:hover {
+        transform: scale(1.1);
+    }

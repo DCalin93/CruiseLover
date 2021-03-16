@@ -1,0 +1,12 @@
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\bin\Debug\netcoreapp3.1\CruiseLover.Core.deps.json
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\bin\Debug\netcoreapp3.1\CruiseLover.Core.dll
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\bin\Debug\netcoreapp3.1\CruiseLover.Core.pdb
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\bin\Debug\netcoreapp3.1\CruiseLover.DB.dll
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\bin\Debug\netcoreapp3.1\CruiseLover.DB.pdb
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.csprojAssemblyReference.cache
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.AssemblyInfoInputs.cache
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.AssemblyInfo.cs
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.csproj.CoreCompileInputs.cache
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.csproj.CopyComplete
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.dll
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.Core\obj\Debug\netcoreapp3.1\CruiseLover.Core.pdb

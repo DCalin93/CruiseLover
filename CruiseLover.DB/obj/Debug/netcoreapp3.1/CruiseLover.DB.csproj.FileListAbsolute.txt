@@ -1,0 +1,12 @@
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\bin\Debug\netcoreapp3.1\CruiseLover.DB.deps.json
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\bin\Debug\netcoreapp3.1\CruiseLover.DB.runtimeconfig.json
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\bin\Debug\netcoreapp3.1\CruiseLover.DB.runtimeconfig.dev.json
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\bin\Debug\netcoreapp3.1\CruiseLover.DB.dll
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\bin\Debug\netcoreapp3.1\CruiseLover.DB.pdb
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.csprojAssemblyReference.cache
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.AssemblyInfoInputs.cache
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.AssemblyInfo.cs
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.csproj.CoreCompileInputs.cache
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.dll
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.pdb
+D:\Dev\myProjects\CruiseLover\CruiseLover\CruiseLover.DB\obj\Debug\netcoreapp3.1\CruiseLover.DB.genruntimeconfig.cache
